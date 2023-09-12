@@ -1,0 +1,26 @@
+[Return to Gameplay/System Design](../gameplay_system_design.md#Gameplay/System-Design)
+
+----
+## Turn-Off Mechanic Mods
+
+Mods that turn off certain mechanics.
+
+| Name                                                                                                                                     | Description                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Enchantment Disabler**[![](/images/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/enchantment-disabler)                 | This mod is a last-ditch attempt for pack-makers to disable enchantments.                                                                                                          |
+| **GTA3 Water Mod**[![](/images/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/gta3-water-mod)                             | Changes how water works, just a little bit, now it will kill you.                                                                                                                  |
+| **Insomniac**[![](/images/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/insomniac)                                       | A small simple mod which disables the sleep functionality.                                                                                                                         |
+| **Malek's Infinity Gauntlet**[![](/images/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/maleks-infinity-gauntlet)        | Remove items, blocks, mobs, from registry to increase load times, decrease ram, and remove duplicate things from mods                                                              |
+| **No Ender Pearl Teleportation**[![](/images/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/no-ender-pearl-teleportation) | This mod disables Ender Pearl's teleportation, when it's thrown.                                                                                                                   |
+| **No Jumping Allowed**[![](/images/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/no-jumping-allowed)                     | This mod doesn't allow you to jump.                                                                                                                                                |
+| **No LAN Cheating**[![](/images/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/no-lan-cheating)                           | This mod removes the "Allow Cheats" button from the "Open to LAN" menu to disallow players from using cheats when opening their world to LAN                                       |
+| **No Mob Farming Patched**[![](/images/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/no-mob-farming-patched)             | It prevents mob farming by disabling mob drops unless the player or their pet kills the mob (directly. This means if the final damaged point is by fire or fall damage, no drops). |
+| **No Nether Portals**[![](/images/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/no-nether-portals)                       | Disables the creation of Nether portals.                                                                                                                                           |
+| **NoSwim**[![](/images/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/noswim)                                             | This mod prevents player from swimming                                                                                                                                             |
+| **Say No To AFK Fishing**[![](/images/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/say-no-to-afk-fishing)               | This micro mod disables interact with Note Block if you have a fishing rod in your hands                                                                                           |
+| **Unexperienced**[![](/images/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/unexperienced)                               | Removes XP orbs.                                                                                                                                                                   |
+| **VillagerTradingBan**[![](/images/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/villagertradingban)                     | Simple mod to disable villager trading                                                                                                                                             |
+| **XP Anti-farm**[![](/images/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/xp-anti-farm)                                 | Prevents XP farms by reducing XP dropped in chunk with every mob kill.                                                                                                             |
+
+----
+[Scroll Back](#Turn-Off-Mechanic-Mods)

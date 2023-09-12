@@ -1,4 +1,4 @@
-[Return back](README.md#After-Words)
+[Return to After Words](README.md#After-Words)
 
 ----
 ## How This List Was Made
