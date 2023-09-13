@@ -21,7 +21,7 @@ If you want to know more about it, read this article:<br>**[What Game Design is 
 
 - **[Scripting Mods](gameplay_system_design/scripting_mods.md)**<br>Mods that allows you to add new mechanics, tweak a lot of things via scripting system or mod rule system.
 
-- **[Tweaker Mods](gameplay_system_design/turn_off_mechanic_mods.md)**<br>Mods that allows you to balance game systems and mechanics.
+- **[Tweaker Mods](gameplay_system_design/tweaker_mods.md)**<br>Mods that allows you to balance game systems and mechanics.
 
 ----
 [Scroll Back](#Gameplay/System-Design)
