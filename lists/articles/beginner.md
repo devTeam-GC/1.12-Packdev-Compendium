@@ -1,4 +1,4 @@
-[Return back](../articles.md#Articles)
+[Return To Articles](../articles.md#Articles)
 
 ----
 ## Materials about How to Make Modpacks for Beginners
@@ -14,6 +14,6 @@ I highly recommend [this series of videos](https://www.youtube.com/playlist?list
 - and some other mods.
 
 ----
-[Scroll back](#Materials-about-How-to-Make-Modpacks-for-Beginners)
+[Return To Title](#Materials-about-How-to-Make-Modpacks-for-Beginners)
 
 
