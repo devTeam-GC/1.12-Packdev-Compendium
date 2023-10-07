@@ -1,4 +1,4 @@
-[Return back](../articles.md#Articles)
+[Return To Articles](../articles.md#Articles)
 
 ----
 
@@ -19,7 +19,7 @@ A standard thing to do in software development (and therefore modding too) is to
 - You can't lose your codebase just by accidentally deleting some files or the whole repo folder
 
 
-I've seen mod devs abandoning their project because their development folder got accidentally corrupted, it can be very discouraging to lose months' worth of progress. You can avoid this by simply adapting some good practices. It can also greatly benefit you if you are planning an IT career. 
+I've seen mod devs abandoning their project because their development folder got accidentally corrupted, it can be very discouraging to lose months worth of progress. You can avoid this by simply adapting some good practices. It can also greatly benefit you if you are planning an IT career. 
 
 ## What is Git?
 
@@ -27,9 +27,9 @@ Git is a command line tool to used to version control your (mod's) source code. 
 
   
 
-There are many useful and good desktop applications with an user interface for git, my personal recommendation is SourceTree, a free git GUI app. With it, you don't have to deal with the command line: https://sourcetreeapp.com/
+There are many useful and good desktop applications with a user interface for git. My personal recommendation is SourceTree, a free git GUI app. With it, you don't have to deal with the command line: https://sourcetreeapp.com/
 
-Today's most IDEs (Integrated Development Environment) like IntelliJ also offer some git support out of the box.
+These days most IDEs (Integrated Development Environment) like IntelliJ also offer some git support out of the box.
 
 ----
-[Scroll back](#Using-Git-to-Version-Control-Your-Modpack)
+[Return To Title](#Using-Git-to-Version-Control-Your-Modpack)

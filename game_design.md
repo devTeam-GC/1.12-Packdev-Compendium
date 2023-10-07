@@ -5,11 +5,11 @@
 
 Game Design is a branch of Game Development that aims to structure every aspect of a Game Experience.
 
-Doing Game Design means **inventing**, **defining**, and **describing** every element of a Game Experience and its **interactions** with other elements. Every bit of what you see, hear, and feel when playing a game is a designer's decision to achieve a specific experience. Game Design lives inside the broader topic of **Game Development**, which groups together all the roles needed to create a game (design, programming, art, sound, testing, etc.).
+Doing Game Design means **inventing**, **defining**, and **describing** every element of a game's experience and its **interactions** with other elements. Every bit of what you see, hear, and feel when playing a game is a designer's decision to achieve a specific experience. Game Design lives inside the broader topic of **Game Development**, which groups together all the roles needed to create a game (design, programming, art, sound, testing, etc.).
 
 
 
-Game Design is the base ground upon which every other department work.
+Game Design is the foundation upon which every other department builds off of.
 
 **Every department** in charge of every other game aspect (art, sound, programming, etc.) work **based on how Game Design defines** the game elements. If you picture a game like a house, **Game Design is the blueprint** that dictates how that house needs to be built.
 
@@ -21,9 +21,9 @@ To further clarify what Game Design is, let's see what Game Design is not.
 
 ### What Game Design Is Not
 
-Due to its fuzziness, some people mistake Game Design for many things.
+Due to its broad range, some people mistake Game Design for many things.
 
-If we throw the term Game Design into the general public and analyze the reactions, we discover it’s a pretty **abstract concept**. So trying to align it with already established study fields and jobs is fairly common. But I want to **wipe your confusion out of existence** about Game Design forever.
+If we throw the term Game Design into the general public and analyze the reactions, we discover it’s a pretty **abstract concept**. So trying to align it with already established fields of study and jobs is fairly common. But I want to **wipe your confusion out of existence** about Game Design forever.
 
 So here’s a list of everything you might mistake Game Design for.
 
@@ -38,17 +38,17 @@ Game Design is **NOT** about:
 - **Coding** the game (that’s the Programmer)
 - **Generate ideas** ([that’s everyone on the team](https://www.karagamedesign.com/post/dont-focus-on-ideas-as-a-game-designer))
 
-All these things are not Game Design, but they could be useful for improving the Game Designer's skillset.
+None of these things are strictly Game Design, but they could be useful for improving the Game Designer's skillset.
 
-What Game Design is and what a Game Designer does are **2 different things**. Game Design is always tight to culture, and **every knowledge element could be helpful** to improve the Game Designer's skillset.
+What Game Design is and what a Game Designer does are **two different things**. Game Design is always tide to culture, and **every knowledge element could be helpful** to improve the Game Designer's skillset.
 
-This pictures a Game Designer as a "weird fluid role", and although you should know what a Game Designer is by now, it can indeed be very fluid. He's **not an Artist**, but he may need his skills; he's **not a Writer**, but he may need his skills; he's **not a Programmer**, but he may need his skills, etc. You get the idea.
+This paints a picture of a Game Designer as a "weird fluid role", and although you should know what a Game Designer is by now, it can indeed vary. He's **not specifically an Artist, Writer, or Programmer,** but he may need their skills. You get the idea.
 
 ### What’s The Difference Between Game Design And Game Programming
 
 Game Design is about defining the structure of the Game Experience.
 
-As we've said, Game Design is like a blueprint. It's more about defining game elements' structure, behavior, and interactions rather than creating them.
+As mentioned said, Game Design is like a blueprint. It's more about defining a game elements' structure, behavior, and interactions rather than creating them.
 
 So **doing Game Design means**:
 
@@ -70,19 +70,19 @@ That's when Game Programming comes in.
 
 Game Programming is about writing the code that brings that Game Experience to life.
 
-Game Programming is another branch of Game Development and is about **structuring and writing the code** to build the final game. It’s not the Game Programmer’s job to invent things (it can, and should, propose ideas though) but to implement them inside a Game Engine. All the programming work is **based on what Game Design has defined** and described. So basically, a Game Designer produces a bunch of documents that describe a feature, and a Game Programmer uses those documents to code that feature.
+Game Programming is another branch of Game Development and is about **structuring and writing the code** to build the final game. It’s not the Game Programmer’s job to invent things (they can, and should, propose ideas though) but to implement them inside a game engine. All the programming work is **based on what Game Design has defined** and described. So basically, a Game Designer produces a bunch of documents that describe a feature, and a Game Programmer uses those documents to code that feature.
 
-Remember that they don’t work in 2 different universes, but they’re always closely related.
+Remember that they don’t work in two different universes; they’re always closely related.
 
 ‍
 
-The 2 roles are constantly communicating to create the best game experience possible.
+The two roles are constantly communicating to create the best game experience possible.
 
-**Communication is crucial** for every role and sits at the heart of any good-performing team. This is especially true when it comes to Game Design and Game Programming. If they work in 2 separate bunkers, the game is doomed to be a mess, and the experience will hugely suffer from it. The communication between Designers and Programmers **must be constant** to reduce misunderstanding and **better grasp each other** way of working.
+**Communication is crucial** for every role and sits at the heart of any good-performing team. This is especially true when it comes to Game Design and Game Programming. If they work isolated from each other, the game is doomed to be a mess, and the experience will suffer severely from it. The communication between Designers and Programmers **must be constant** to reduce misunderstanding and to **better grasp each other's** way of working.
 
 Let’s now take the final step by addressing the last concern about what Game Design really is.
 
-### Is Game Design More On Technical Or Creative Side?
+### Is Game Design More On The Technical Or Creative Side?
 
 Game Design is a technical discipline with creative purposes.
 
@@ -90,11 +90,11 @@ Game Design is about knowing **how a game works** and **how players interact*
 
 **Game Design has an art core inside a technical shell**.
 
-Some people tend to bring Game Design closer to Science, but that’s a half-baked mistake.
+Some people tend to categorize Game Design as more of a science, but that’s a mistake.
 
 ‍
 
-Game Design is not Science, but it uses some science-based concepts and principles.
+Game Design is not a science, but it uses some science-based concepts and principles.
 
 Game Design doesn't come out of a laboratory experiment, and neither are its effects precisely measurable. However, it makes use of **scientific-based concepts and methods**.
 
@@ -103,7 +103,7 @@ Game Design is a discipline with a series of models, tools, and methodologies th
 As a [famous quote](https://en.wikipedia.org/wiki/All_models_are_wrong) said: "**All models are wrong, but some are useful**".
 
 ----
-**Game Design is a branch of Game Development that aims at inventing, defining, and describing every element of a Game Experience and all its interactions. Its work is the base ground for other departments. It’s the blueprint that shows how to build the house.**
+**Game Design is a branch of Game Development that focuses on inventing, defining, and describing every element of a Game Experience and all its interactions. Its work is the foundation for other departments. It’s the blueprint that shows how to build the house.**
 
 ----
 ## The 6 Game Design Branches
@@ -134,7 +134,7 @@ Take for example:
 - Shooting an enemy.
 - Moving in an environment.
 - Jumping a hole in the ground.
-- Block an enemy attack with a shield.
+- Block an enemy's attack with a shield.
 - Pushing and pulling objects.
 - Etc.
 
@@ -283,4 +283,4 @@ Try to play any game muted, and you'll find that your experience will be dramati
 
 ----
 
-[Scroll Back](#What-Is-Game-Design)
+[Return To Title](#What-Is-Game-Design)

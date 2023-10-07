@@ -23,4 +23,4 @@ Mods that turn off certain mechanics.
 | **XP Anti-farm**[![](/images/curseforge.png)](https://www.curseforge.com/minecraft/mc-mods/xp-anti-farm)                                 | Prevents XP farms by reducing XP dropped in chunk with every mob kill.                                                                                                             |
 
 ----
-[Scroll Back](#Turn-Off-Mechanic-Mods)
+[Return To Title](#Turn-Off-Mechanic-Mods)
