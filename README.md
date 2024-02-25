@@ -1,4 +1,4 @@
-# 1.12 Packdev Compendium
+# 1.12 Packdev Compendium (in work)
 
 **Ultimate mods, tools Compendium for modpack development on 1.12.2.**
 
